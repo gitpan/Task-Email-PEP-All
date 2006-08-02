@@ -6,7 +6,6 @@ version_from ( 'All.pm'               );
 license      ( 'perl'                       );
 auto_install;
 
-requires('Bundle::Email' => '0.040');
 requires('Email::Abstract' => '2.13');
 requires('Email::Address' => '1.86');
 requires('Email::Date' => '1.101');
@@ -29,7 +28,7 @@ requires('Email::MIME::Modifier' => '1.43');
 requires('Email::MessageID' => '1.35');
 requires('Email::Reply' => '1.20');
 requires('Email::Send' => '2.171');
-requires('Email::Simple' => '1.96');
+requires('Email::Simple' => '1.97');
 requires('Email::Simple::Creator' => '1.41');
 requires('Email::Simple::FromHandle' => '0.011');
 requires('Email::Simple::Headers' => '1.02');

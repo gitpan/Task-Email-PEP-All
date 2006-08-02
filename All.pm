@@ -17,15 +17,13 @@ module, as of the time of bundle-construction.
 
 =head1 VERSION
 
-version 6212.235
+version 6213.124
 
 =cut
 
-our $VERSION = '6212.235';
+our $VERSION = '6213.124';
 
 =head2 CONTENTS
-
-Bundle::Email                      0.040 - a bundle to install the main set of Email:: modules          
 
 Email::Abstract                    2.13  - unified interface to mail representations                    
 
@@ -71,7 +69,7 @@ Email::Reply                       1.20  - Reply to a Message
 
 Email::Send                        2.171 - Simply Sending Email                                         
 
-Email::Simple                      1.96  - Simple parsing of RFC2822 message format and headers         
+Email::Simple                      1.97  - Simple parsing of RFC2822 message format and headers         
 
 Email::Simple::Creator             1.41  - Email::Simple constructor for starting anew.                 
 
@@ -100,6 +98,8 @@ Mail::Audit                        2.203 - Library for creating easy mail filter
 Mail::DeliveryStatus::BounceParser 1.512 - Perl extension to analyze bounce messages                    
 
 Mail::LocalDelivery                0.301 - Deliver mail to a local mailbox                              
+
+
 =head2 PERL EMAIL PROJECT
 
 This bundle is maintained by the Perl Email Project.
