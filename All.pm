@@ -17,11 +17,11 @@ module, as of the time of bundle-construction.
 
 =head1 VERSION
 
-version 6233.124
+version 6245.133
 
 =cut
 
-our $VERSION = '6233.124';
+our $VERSION = '6245.133';
 
 =head2 CONTENTS
 
@@ -43,7 +43,7 @@ Email::Folder::IMAPS               1.10  - Email::Folder Access to IMAP over SSL
 
 Email::Folder::POP3                1.011 - Email::Folder Access to POP3 Folders                         
 
-Email::FolderType                  0.811 - determine the type of a mail folder                          
+Email::FolderType                  0.812 - determine the type of a mail folder                          
 
 Email::FolderType::Net             1.04  - Recognize folder types for network based message protocols.  
 
@@ -63,11 +63,11 @@ Email::MIME::Modifier              1.440 - Modify Email::MIME Objects Easily
 
 Email::MessageID                   1.35  - Generate world unique message-ids.                           
 
-Email::Reply                       1.20  - Reply to a Message                                           
+Email::Reply                       1.200 - Reply to a Message                                           
 
-Email::Send                        2.171 - Simply Sending Email                                         
+Email::Send                        2.180 - Simply Sending Email                                         
 
-Email::Simple                      1.980 - Simple parsing of RFC2822 message format and headers         
+Email::Simple                      1.981 - Simple parsing of RFC2822 message format and headers         
 
 Email::Simple::Creator             1.41  - Email::Simple constructor for starting anew.                 
 
@@ -75,7 +75,7 @@ Email::Simple::FromHandle          0.011 - an Email::Simple but from a handle
 
 Email::Simple::Headers             1.02  - Get a List of Headers From Simple Objects                    
 
-Email::Store                       0.251 - Framework for database-backed email storage                  
+Email::Store                       0.252 - Framework for database-backed email storage                  
 
 Email::Store::HTML                 0.301 - various HTML related functions for Email::Store::Mail        
 
